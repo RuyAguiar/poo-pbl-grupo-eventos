@@ -1,0 +1,13 @@
+{
+  "curso": "Ciencia da Computação",
+  "disciplina": "PROJETO DE PROGRAMAÇÃO",
+  "tema_escolhido": "6",
+  "linguagem": "Java",
+  "gerenciador_dependencias": "Maven",
+  "integrantes": [
+    {
+      "nome": "Ruy Aguiar",
+      "github_username": "RuyAguiar"
+    }
+  ]
+}

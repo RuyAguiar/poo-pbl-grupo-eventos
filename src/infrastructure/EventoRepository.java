@@ -9,7 +9,7 @@ public class EventoRepository {
     private final Map<String, Evento> eventos = new HashMap<>();
 
     public void salvar(Evento evento) {
-        eventos.put(evento.toString(), evento);
+        eventos.put(evento.getId(), evento);
     }
 
     public Evento buscar(String id) {
