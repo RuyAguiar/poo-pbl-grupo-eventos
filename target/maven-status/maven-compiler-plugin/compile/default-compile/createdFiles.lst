@@ -1,3 +1,5 @@
 domain\Email.class
 domain\Evento.class
+infrastructure\EventoRepository.class
+application\InscreverParticipanteUseCase.class
 domain\Participante.class

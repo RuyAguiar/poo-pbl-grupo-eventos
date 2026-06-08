@@ -46,4 +46,7 @@ public class Evento {
     public String getNome() {
         return nome;
     }
+    public String getId() {
+    return id;
+    }
 }
